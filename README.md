@@ -1,2 +1,2 @@
 # testRepo
-Just For mastering GIT commands :)
+Just For mastering GIT commands
