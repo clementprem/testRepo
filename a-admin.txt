@@ -1,0 +1,2 @@
+Hello admin
+This is file a from admin.
